@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="thin" type="dimen">5dp</item>
+    <item name="small" type="dimen">12dp</item>
+    <item name="medium" type="dimen">20dp</item>
+    <item name="large" type="dimen">30dp</item>
+
+</resources>
